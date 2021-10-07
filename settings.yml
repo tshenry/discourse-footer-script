@@ -1,0 +1,4 @@
+extend_content_security_policy:
+  type: list
+  default: "script_src: https://script-cdn.com/some/script.js"
+  description: "Replace the URL in the above example with your script URL"
